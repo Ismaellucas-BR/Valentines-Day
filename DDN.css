@@ -1,0 +1,180 @@
+
+*{
+ margin: 0;  
+ padding: 0;
+   
+}
+body{
+    background-image: url(img/366341.jpg);
+    background-repeat: no-repeat;
+}
+.corger{
+    left: 500px;
+   position: absolute;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 1400px;
+}
+
+.cor1{
+    width: 150px;
+    height: 150px;
+    text-align: center;
+   align-items:center ;
+    font-size: 15px;
+    border: black solid 1px;
+    border-radius: 10px;
+    line-height: 35px;
+   justify-content: center;
+   display: flex;
+   background-color:	DeepPink;
+    
+}
+.mud1{
+    position: absolute;
+    left: 80px;
+    top: 8px;
+    
+    
+   
+}
+
+.mud2{
+    position: absolute;
+    top: 158px;
+    left:0px;
+    
+}
+.mud3{
+    position: absolute;
+    left: 175px;
+    top: 158px;
+}
+.mud4{
+    position: absolute;
+    left: 435px;
+    top: 8px;
+}
+
+.mud5{
+    position: absolute;
+    top: 158px;
+    left: 345px;
+}
+.mud6{
+    position: absolute;
+    top: 158px;
+    left: 515px;
+}
+.mud7{
+    position: absolute;
+    top: 308px;
+    left: -100px;
+}
+.mud8{
+    position: absolute;
+    top: 308px;
+    left: 80px;
+}
+.mud9{
+    position: absolute;
+    top: 308px;
+    left: 250px;
+}
+.mud10{
+    position: absolute;
+    top: 308px;
+    left: 424px;
+}
+.mud11{
+    position: absolute;
+    top: 308px;
+    left: 595px;
+}
+.mud12{
+    position: absolute;
+    top: 459px;
+    left: 170px;
+}
+.mud13{
+    position: absolute;
+    top: 459px;
+    left: -10px;
+}
+
+.mud14{
+    position: absolute;
+    top: 459px;
+    left: 350px;
+}
+.mud15{
+    position: absolute;
+    top: 459px;
+    left: 535px;
+}
+.mud16{
+    position: absolute;
+    top: 610px;
+    left: 80px;
+}
+.mud17{
+    position: absolute;
+    top: 610px;
+    left: 270px;
+}
+.mud18{
+    position: absolute;
+    top: 610px;
+    left: 450px;
+}
+.mud19{
+    position: absolute;
+    top: 761px;
+    left: 185px;
+}
+.mud20{
+    position: absolute;
+    top: 761px;
+    left: 365px;
+}
+.mud21{
+    position: absolute;
+    top: 912px;
+    left: 275px;
+}
+.ima{
+    width: 1500px;
+    height: 1500px;
+}
+
+.heart{
+    position: relative;
+    right: 350px;
+    top: -50px;
+}
+.heart2{
+    position: relative;
+    right: 580px;
+    top: 260px;
+}
+.heart3{
+    position: relative;
+    right: 800px;
+    top: 600px;
+}
+.heart4{
+    position: relative;
+    right:-110px;
+    top: -50px;
+}
+.heart5{
+    position: relative;
+    right:100px;
+    top: 250px;
+}
+.heart6{
+    position: relative;
+    right: 340px;
+    top: 600px;
+}

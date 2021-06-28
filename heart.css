@@ -1,0 +1,236 @@
+.heart {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    margin: 100px;
+    background: #df0732;
+    animation: pulse 1s infinite alternate;
+    scale: (0.5);
+  }
+  
+  .square {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: #df0732;
+  }
+  
+  .circle {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: absolute;
+    background: #df0732;
+  }
+  
+  .top {
+    top: 100px;
+  }
+  
+  .left {
+    left: 100px;
+  }
+  
+  @keyframes pulse {
+    0%   {transform: scale(0.3) rotate(-135deg);}
+    100% {transform: scale(0.6) rotate(-135deg);}
+  }
+
+  .heart2 {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    margin: 100px;
+    background: #df0732;
+    animation: pulse2 1s infinite alternate;
+    scale: (0.5);
+  }
+  
+  .square2 {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: #df0732;
+  }
+  
+  .circle2 {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: absolute;
+    background: #df0732;
+  }
+  
+  .top2 {
+    top: 100px;
+  }
+  
+  .left2 {
+    left: 100px;
+  }
+  
+  @keyframes pulse2 {
+    0%   {transform: scale(0.3) rotate(-135deg);}
+    100% {transform: scale(0.6) rotate(-135deg);}
+  }
+
+  .heart3 {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    margin: 100px;
+    background: #df0732;
+    animation: pulse2 1s infinite alternate;
+    scale: (0.5);
+  }
+  
+  .square3 {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: #df0732;
+  }
+  
+  .circle3 {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: absolute;
+    background: #df0732;
+  }
+  
+  .top3 {
+    top: 100px;
+  }
+  
+  .left3 {
+    left: 100px;
+  }
+  
+  @keyframes pulse2 {
+    0%   {transform: scale(0.3) rotate(-135deg);}
+    100% {transform: scale(0.6) rotate(-135deg);}
+  }
+  .heart4 {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    margin: 100px;
+    background: #df0732;
+    animation: pulse2 1s infinite alternate;
+    scale: (0.5);
+  }
+  
+  .square4 {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: #df0732;
+  }
+  
+  .circle4 {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: absolute;
+    background: #df0732;
+  }
+  
+  .top4 {
+    top: 100px;
+  }
+  
+  .left4 {
+    left: 100px;
+  }
+  
+  @keyframes pulse2 {
+    0%   {transform: scale(0.3) rotate(-135deg);}
+    100% {transform: scale(0.6) rotate(-135deg);}
+  }
+  .heart5 {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    margin: 100px;
+    background: #df0732;
+    animation: pulse2 1s infinite alternate;
+    scale: (0.5);
+  }
+  
+  .square5 {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: #df0732;
+  }
+  
+  .circle5 {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: absolute;
+    background: #df0732;
+  }
+  
+  .top5 {
+    top: 100px;
+  }
+  
+  .left5 {
+    left: 100px;
+  }
+  
+  @keyframes pulse2 {
+    0%   {transform: scale(0.3) rotate(-135deg);}
+    100% {transform: scale(0.6) rotate(-135deg);}
+  }
+  .heart6 {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    margin: 100px;
+    background: #df0732;
+    animation: pulse2 1s infinite alternate;
+    scale: (0.5);
+  }
+  
+  .square6 {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: #df0732;
+  }
+  
+  .circle6 {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: absolute;
+    background: #df0732;
+  }
+  
+  .top6 {
+    top: 100px;
+  }
+  
+  .left6 {
+    left: 100px;
+  }
+  
+  @keyframes pulse2 {
+    0%   {transform: scale(0.3) rotate(-135deg);}
+    100% {transform: scale(0.6) rotate(-135deg);}
+  }
